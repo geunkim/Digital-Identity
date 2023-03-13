@@ -10,6 +10,12 @@ I will gather information and links related to Digital Identity, which may be th
 This conference is the first conference related to the wallet experience. You can catch the recap videos. 
 This is driven by purpose to improve the wallet experience to obtain Web3's first billion users.
 
+## Consortium
+
+### [DCC(Digital Credentials Consortium)](https://digitalcredentials.mit.edu)
+
+In this consortium, participants are aiming to build an infrastructure for **digital academic credentials** that can support **the education system of the future**. 
+
 
 ## Projects
 
