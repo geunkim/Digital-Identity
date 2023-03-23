@@ -31,7 +31,12 @@ In this consortium, participants are aiming to build an infrastructure for **dig
   - [TreeLDR Overview](https://spruceid.dev/treeldr/treeldr-overview)
     
 ### [W3C CV 3.0 - Global Resume Community Group](https://w3.org/community/cv3/)
- 
+
+## Related Projects or Sites
+
+### [MATTR](https://mattr.global/)
+* It launched SDK-centric platform for creating experiences and apps. 
+* It tried to provide cross-industry solutions with digital trust enabled features.
 
 ### Signatures
 
