@@ -34,7 +34,7 @@ In this consortium, participants are aiming to build an infrastructure for **dig
 
 ### [DIF(Decentrailzed Identity Foudation)](https://identity.foundation/)
 * It is building a new identity ecosystem
-* [Summary](./DIF/readme.md)
+* [Summary](./DIF/README.md)
 
 ## Related Projects or Sites
 
