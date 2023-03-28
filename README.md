@@ -36,6 +36,13 @@ In this consortium, participants are aiming to build an infrastructure for **dig
 * It is building a new identity ecosystem
 * [Summary](./DIF/README.md)
 
+## Related Projects Hyperledger Foundation
+* [Hyperledger Aries](https://www.hyperledger.org/use/aries)
+* [Hyperledger Indy](https://www.hyperledger.org/use/hyperledger-indy)
+* [Hyperledger AnonCreds](https://www.hyperledger.org/use/anoncreds)
+* [Hyperledger Ursa](https://www.hyperledger.org/use/ursa)
+
+
 ## Related Projects or Sites
 
 ### * [MATTR](https://mattr.global/)
@@ -47,5 +54,6 @@ In this consortium, participants are aiming to build an infrastructure for **dig
 
 * [Ed25519Signature2020 Interoperability Report 1.0](https://w3c-ccg.github.io/di-ed25519-test-suite/#conformance)
 * [JsonWebSignagure2020 & VC JWT Test Suite](https://github.com/decentralized-identity/JWS-Test-Suite)
+
 
 
