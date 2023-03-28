@@ -5,7 +5,7 @@ I will gather information and links related to Digital Identity, which may be th
 
 ## Conferences
 
-### [WalletCon 2023](https://twitter.comm/WalletCon_)
+### [WalletCon 2023](https://twitter.com/WalletCon_)
 
 This conference is the first conference related to the wallet experience. You can catch the recap videos. 
 This is driven by purpose to improve the wallet experience to obtain Web3's first billion users.
