@@ -50,6 +50,12 @@ In this consortium, participants are aiming to build an infrastructure for **dig
 * It tried to provide cross-industry solutions with digital trust enabled features.
 
 
+### BBS+ 
+
+* Presentation of the BBS+ at the CFRG(Crypto Forum Research Group) during the [IETF 116 Meeting](https://datatracker.ietf.org/meeting/116/proceedings/)
+  - [YouTube Video Stream](https://www.youtube.com/watch?v=GZRb-w-xxtY)
+
+
 ### Signatures
 
 * [Ed25519Signature2020 Interoperability Report 1.0](https://w3c-ccg.github.io/di-ed25519-test-suite/#conformance)
