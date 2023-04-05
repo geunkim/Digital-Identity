@@ -36,6 +36,10 @@ In this consortium, participants are aiming to build an infrastructure for **dig
 * It is building a new identity ecosystem
 * [Summary](./DIF/README.md)
 
+### eIDAS 2.0 (EU Digital Identity 2.0)
+* [Analysis of the EU Digital Identity Architecture and Reference Framework](https://www.evernym.com/blog/eu-digital-identity/)
+
+
 ## Related Projects Hyperledger Foundation
 * [Hyperledger Aries](https://www.hyperledger.org/use/aries)
 * [Hyperledger Indy](https://www.hyperledger.org/use/hyperledger-indy)
