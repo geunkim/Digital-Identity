@@ -36,7 +36,7 @@ In this consortium, participants are aiming to build an infrastructure for **dig
 * It is building a new identity ecosystem
 * [Summary](./DIF/README.md)
 
-### eIDAS 2.0 (EU Digital Identity 2.0)
+### [eIDAS 2.0 (EU Digital Identity 2.0)](https://digital-strategy.ec.europa.eu/en/policies/eidas-regulation)
 * [Analysis of the EU Digital Identity Architecture and Reference Framework](https://www.evernym.com/blog/eu-digital-identity/)
 
 
