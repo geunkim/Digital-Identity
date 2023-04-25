@@ -66,4 +66,7 @@ In this consortium, participants are aiming to build an infrastructure for **dig
 * [JsonWebSignagure2020 & VC JWT Test Suite](https://github.com/decentralized-identity/JWS-Test-Suite)
 
 
+### Related Presentations and Interviews
 
+* [Sign-in With Ethereum with Wayne Chang](https://www.youtube.com/watch?v=VHwzE6mVm_s)
+   - The interview with Wayne Chang 
