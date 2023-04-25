@@ -70,6 +70,7 @@ In this consortium, participants are aiming to build an infrastructure for **dig
 * [Credential Engine Schemas Handbook](credreg.net/ctdl/handbook#transfervalue)
 * [Learning Economy Protocol](docs.learncard.com/get-started/welcome) 
 * [W3C Credentials Community Group](w3c-ccg.github.io/meetings/)
+* [OpenWallet Foundation - architecture sig](github.com/openwallet-foundation/architecture-sig)
 
 ### Related Presentations and Interviews
 
