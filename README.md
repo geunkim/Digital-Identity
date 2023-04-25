@@ -65,6 +65,11 @@ In this consortium, participants are aiming to build an infrastructure for **dig
 * [Ed25519Signature2020 Interoperability Report 1.0](https://w3c-ccg.github.io/di-ed25519-test-suite/#conformance)
 * [JsonWebSignagure2020 & VC JWT Test Suite](https://github.com/decentralized-identity/JWS-Test-Suite)
 
+### Related Sites
+
+* [Credential Engine Schemas Handbook](credreg.net/ctdl/handbook#transfervalue)
+* [Learning Economy Protocol](docs.learncard.com/get-started/welcome) 
+* [W3C Credentials Community Group](w3c-ccg.github.io/meetings/)
 
 ### Related Presentations and Interviews
 
