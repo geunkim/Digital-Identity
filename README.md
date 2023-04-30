@@ -81,3 +81,5 @@ In this consortium, participants are aiming to build an infrastructure for **dig
 ### Related Links
 
 * [How to create a DID:WEB and issue and verify W3C Verifiiable Credentials](https://medium.com/@skounis/how-to-create-a-did-web-and-issue-and-verify-w3c-verifiable-credentials-bcd5215e378d) by Stavros Kounis
+
+* [Microsoft Entra Verified ID document](https://learn.microsoft.com/en-us/azure/active-directory/verifiable-credentials/)
