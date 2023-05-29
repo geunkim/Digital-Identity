@@ -86,3 +86,6 @@ In this consortium, participants are aiming to build an infrastructure for **dig
 (https://openid.net/wordpress-content/uploads/2022/06/OIDF-Whitepaper_OpenID-for-Verifiable-Credentials-V2_2022-06-23.pdf)
 * [Open ID Foundation Workshop at Microsoft - Monday, April 17, 2023](https://openid.net/workshops/workshop-at-microsoft-april-17-2023/)
    - We can view workshop recordings and presentations in this link.
+* [ECDSA Selective Disclosure Data Integrity Cryptosuite](https://github.com/digitalbazaar/ecdsa-sd-2023-cryptosuite)
+* [CBOR JavaScript API](https://github.com/cyberphone/cbor-js-api)
+*
