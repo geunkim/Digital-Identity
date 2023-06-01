@@ -46,6 +46,12 @@ In this consortium, participants are aiming to build an infrastructure for **dig
 * [Hyperledger AnonCreds](https://www.hyperledger.org/use/anoncreds)
 * [Hyperledger Ursa](https://www.hyperledger.org/use/ursa)
 
+# JFF Plugfest
+
+# [VC-EDU GitHub](https://github.com/w3c-ccg/vc-ed)
+# [Plugfest #1](https://w3c-ccg.github.io/vc-ed/plugfest-1-2022/)
+# [Plugfest #2](https://w3c-ccg.github.io/vc-ed/plugfest-2-2022/)
+# Plugfest #3
 
 ## Related Projects or Sites
 
