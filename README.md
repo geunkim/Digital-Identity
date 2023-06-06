@@ -70,6 +70,10 @@ In this consortium, participants are aiming to build an infrastructure for **dig
 
 * [Ed25519Signature2020 Interoperability Report 1.0](https://w3c-ccg.github.io/di-ed25519-test-suite/#conformance)
 * [JsonWebSignagure2020 & VC JWT Test Suite](https://github.com/decentralized-identity/JWS-Test-Suite)
+* [CBOR Object Signing and Encryption (COSE)](https://www.iana.org/assignments/cose/cose.xhtml#algorithms)
+* [JSON Object Signing and Encryption (JOSE)](https://www.iana.org/assignments/jose/jose.xhtml#web-signature-encryption-algorithms)
+* [Securing Verifiable Credentials using JSON Web Tokens](https://www.w3.org/TR/vc-jwt/)
+
 
 ### Related Activities related to digital identity
 
