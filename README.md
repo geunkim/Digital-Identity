@@ -94,4 +94,6 @@ In this consortium, participants are aiming to build an infrastructure for **dig
    - We can view workshop recordings and presentations in this link.
 * [ECDSA Selective Disclosure Data Integrity Cryptosuite](https://github.com/digitalbazaar/ecdsa-sd-2023-cryptosuite)
 * [CBOR JavaScript API](https://github.com/cyberphone/cbor-js-api)
-*
+* [deccentralized identity hackathon discord link](https://discord.com/channels/1052689356999106580/1103031000541446226)
+
+
