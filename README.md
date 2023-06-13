@@ -74,7 +74,6 @@ In this consortium, participants are aiming to build an infrastructure for **dig
 * [JSON Object Signing and Encryption (JOSE)](https://www.iana.org/assignments/jose/jose.xhtml#web-signature-encryption-algorithms)
 * [Securing Verifiable Credentials using JSON Web Tokens](https://www.w3.org/TR/vc-jwt/)
 
-
 ### Related Activities related to digital identity
 
 * [Credential Engine Schemas Handbook](credreg.net/ctdl/handbook#transfervalue)
@@ -82,6 +81,9 @@ In this consortium, participants are aiming to build an infrastructure for **dig
 * [W3C Credentials Community Group](w3c-ccg.github.io/meetings/)
 * [OpenWallet Foundation - architecture sig](github.com/openwallet-foundation/architecture-sig)
 
+### DID for IoT 
+
+* [IoTeX Onboarding Pack](https://onboard.iotex.io/)
 
 ### Related Presentations and Interviews
 
@@ -107,7 +109,7 @@ In this consortium, participants are aiming to build an infrastructure for **dig
 * [Verifiable Credentials 101 for SSI](https://www.youtube.com/watch?v=6O_iJnhIh5o&t=9s)
 * [Understanding and Using Verifiable Credentials](https://www.youtube.com/watch?v=BxLSSH_EHjo)
 * [How to Integrate Verifiable Credentials into Any Application](https://www.youtube.com/watch?v=PkgHQCD1Ekk)
-* 
+
 
 
 
