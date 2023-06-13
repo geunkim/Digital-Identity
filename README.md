@@ -87,7 +87,7 @@ In this consortium, participants are aiming to build an infrastructure for **dig
 
 * [Sign-in With Ethereum with Wayne Chang](https://www.youtube.com/watch?v=VHwzE6mVm_s)
    - The interview with Wayne Chang
-   
+
 ### Related Links
 
 * [How to create a DID:WEB and issue and verify W3C Verifiiable Credentials](https://medium.com/@skounis/how-to-create-a-did-web-and-issue-and-verify-w3c-verifiable-credentials-bcd5215e378d) by Stavros Kounis
@@ -99,7 +99,15 @@ In this consortium, participants are aiming to build an infrastructure for **dig
 * [ECDSA Selective Disclosure Data Integrity Cryptosuite](https://github.com/digitalbazaar/ecdsa-sd-2023-cryptosuite)
 * [CBOR JavaScript API](https://github.com/cyberphone/cbor-js-api)
 * [deccentralized identity hackathon discord link](https://discord.com/channels/1052689356999106580/1103031000541446226)
-   > [동영상 링크](https://www.youtube.com/@brianrichter5039/videos)
+   - [관련 동영상 링크](https://www.youtube.com/@brianrichter5039/videos)
 * [Subresource Integrity](https://developer.mozilla.org/en-US/docs/Web/Security/Subresource_Integrity)
+
+### Related Videos for Verifiable Credentials 
+
+* [Verifiable Credentials 101 for SSI](https://www.youtube.com/watch?v=6O_iJnhIh5o&t=9s)
+* [Understanding and Using Verifiable Credentials](https://www.youtube.com/watch?v=BxLSSH_EHjo)
+* [How to Integrate Verifiable Credentials into Any Application](https://www.youtube.com/watch?v=PkgHQCD1Ekk)
+* 
+
 
 
