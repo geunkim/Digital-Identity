@@ -92,7 +92,7 @@ In this consortium, participants are aiming to build an infrastructure for **dig
 
 * [How to create a DID:WEB and issue and verify W3C Verifiiable Credentials](https://medium.com/@skounis/how-to-create-a-did-web-and-issue-and-verify-w3c-verifiable-credentials-bcd5215e378d) by Stavros Kounis
 * [Microsoft Entra Verified ID document](https://learn.microsoft.com/en-us/azure/active-directory/verifiable-credentials/)
-* [OpenID for Verifiable Credentials(Document)](
+* [OpenID for Verifiable Credentials(Document)]
 (https://openid.net/wordpress-content/uploads/2022/06/OIDF-Whitepaper_OpenID-for-Verifiable-Credentials-V2_2022-06-23.pdf)
 * [Open ID Foundation Workshop at Microsoft - Monday, April 17, 2023](https://openid.net/workshops/workshop-at-microsoft-april-17-2023/)
    - We can view workshop recordings and presentations in this link.
