@@ -7,7 +7,7 @@
 - [DIF - Issuer Resolution - Unofficial Draft 09 June 2022](https://identity.foundation/vui/issuerResolution)
   
 - [Fraunhofer  TRAIN eSSIF-TRAIN by Fraunhofer-Gesellschaft - TRAIN Trust Management Infrastructure Component for the ESSIF-Lab Architecture](https://essif-lab.eu/essif-train-by-fraunhofer-gesellschaft/)
-- [UBICUA: Self-Sovereign Identity Description, Discovery and Interoperability])(https://github.com/UBICUA-JSSI/ssiddi/)
+- [UBICUA: Self-Sovereign Identity Description, Discovery and Interoperability](https://github.com/UBICUA-JSSI/ssiddi/)
 - [TNO: Credential Catalog](https://github.com/tno-ssi-lab/credential-catalog)
 
   
