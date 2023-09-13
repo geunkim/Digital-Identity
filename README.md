@@ -117,7 +117,7 @@ In this consortium, participants are aiming to build an infrastructure for **dig
 * 
 ### W#C WICG for Identity Wallets
 
-* https://docs.google.com/document/d/1sW74RUVamz8g6-23IHvMOgHMg-ZvIz5lcsajBvZxtes/edit?pli=1
+* [Identity Walleet CG](https://docs.google.com/document/d/1sW74RUVamz8g6-23IHvMOgHMg-ZvIz5lcsajBvZxtes/edit?pli=1)
 
 
 
