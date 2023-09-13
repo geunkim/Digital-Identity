@@ -110,6 +110,12 @@ In this consortium, participants are aiming to build an infrastructure for **dig
 * [Understanding and Using Verifiable Credentials](https://www.youtube.com/watch?v=BxLSSH_EHjo)
 * [How to Integrate Verifiable Credentials into Any Application](https://www.youtube.com/watch?v=PkgHQCD1Ekk)
 
+### W3C VC and DID Demonstration
+
+* [TBD slide](https://www.slideshare.net/secret/7mfMOiHIYeGcpn)https://www.slideshare.net/secret/7mfMOiHIYeGcpn)
+* [Microsoft Demo](https://aka.ms/vcdeom)
+* 
+
 
 
 
