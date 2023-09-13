@@ -115,7 +115,9 @@ In this consortium, participants are aiming to build an infrastructure for **dig
 * [TBD slide](https://www.slideshare.net/secret/7mfMOiHIYeGcpn)https://www.slideshare.net/secret/7mfMOiHIYeGcpn)
 * [Microsoft Demo](https://aka.ms/vcdeom)
 * 
+### W#C WICG for Identity Wallets
 
+* https://docs.google.com/document/d/1sW74RUVamz8g6-23IHvMOgHMg-ZvIz5lcsajBvZxtes/edit?pli=1
 
 
 
