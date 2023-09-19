@@ -103,7 +103,9 @@ In this consortium, participants are aiming to build an infrastructure for **dig
 * [deccentralized identity hackathon discord link](https://discord.com/channels/1052689356999106580/1103031000541446226)
    - [관련 동영상 링크](https://www.youtube.com/@brianrichter5039/videos)
 * [Subresource Integrity](https://developer.mozilla.org/en-US/docs/Web/Security/Subresource_Integrity)
+* [Create and Publish Your Own did:web](https://mhrsntrk.com/blog/create-and-publish-your-own-did-web)
 
+  
 ### Related Videos for Verifiable Credentials 
 
 * [Verifiable Credentials 101 for SSI](https://www.youtube.com/watch?v=6O_iJnhIh5o&t=9s)
