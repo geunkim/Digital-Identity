@@ -8,7 +8,7 @@ I will gather information and links related to Digital Identity, which may be th
 ### [WalletCon 2023](https://twitter.com/WalletCon_)
 
 This conference is the first conference related to the wallet experience. You can catch the recap videos. 
-This is driven by purpose to improve the wallet experience to obtain Web3's first billion users.
+This is driven by a purpose to improve the wallet experience to obtain Web3's first billion users.
 
 ## Consortium
 
@@ -32,7 +32,7 @@ In this consortium, participants are aiming to build an infrastructure for **dig
     
 ### [W3C CV 3.0 - Global Resume Community Group](https://w3.org/community/cv3/)
 
-### [DIF(Decentrailzed Identity Foudation)](https://identity.foundation/)
+### [DIF(Decentralized Identity Foundation)](https://identity.foundation/)
 * It is building a new identity ecosystem
 * [Summary](./DIF/README.md)
 
@@ -51,13 +51,13 @@ In this consortium, participants are aiming to build an infrastructure for **dig
 * [VC-EDU GitHub](https://github.com/w3c-ccg/vc-ed)
 * [Plugfest #1](https://w3c-ccg.github.io/vc-ed/plugfest-1-2022/)
 * [Plugfest #2](https://w3c-ccg.github.io/vc-ed/plugfest-2-2022/)
-* Plugfest #3
+* [Plugfest #3](https://w3c-ccg.github.io/vc-ed/plugfest-3-2023/)
 
 ## Related Projects or Sites
 
 ### * [MATTR](https://mattr.global/)
-* It launched SDK-centric platform for creating experiences and apps. 
-* It tried to provide cross-industry solutions with digital trust enabled features.
+* It launched an SDK-centric platform for creating experiences and apps. 
+* It tried to provide cross-industry solutions with digital trust-enabled features.
 
 
 ### BBS+ 
@@ -121,5 +121,8 @@ In this consortium, participants are aiming to build an infrastructure for **dig
 
 * [Identity Walleet CG](https://docs.google.com/document/d/1sW74RUVamz8g6-23IHvMOgHMg-ZvIz5lcsajBvZxtes/edit?pli=1)
 
-
+### Open Wallet Foundation
+* [github](https://github.com/orgs/openwallet-foundation/repositories)
+* [introduction slides presented in W3C CCG VC-EDU TF]( https://docs.google.com/presentation/d/1I762954FgeU7I3b4-jPToJ3lCGGyATkdHFny97KLfJ0/edit?pli=1#slide=id.g243d2775bb6_0_86)
+* 
 
