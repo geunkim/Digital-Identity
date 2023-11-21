@@ -59,7 +59,6 @@ In this consortium, participants are aiming to build an infrastructure for **dig
 * It launched an SDK-centric platform for creating experiences and apps. 
 * It tried to provide cross-industry solutions with digital trust-enabled features.
 
-
 ### BBS+ 
 
 * Presentation of the BBS+ at the CFRG(Crypto Forum Research Group) during the [IETF 116 Meeting](https://datatracker.ietf.org/meeting/116/proceedings/)
@@ -90,6 +89,18 @@ In this consortium, participants are aiming to build an infrastructure for **dig
 * [Sign-in With Ethereum with Wayne Chang](https://www.youtube.com/watch?v=VHwzE6mVm_s)
    - The interview with Wayne Chang
 
+## Digital Wallet
+
+### W#C WICG for Identity Wallets
+* [Identity Wallet CG](https://docs.google.com/document/d/1sW74RUVamz8g6-23IHvMOgHMg-ZvIz5lcsajBvZxtes/edit?pli=1)
+
+### Open Wallet Foundation
+* [github](https://github.com/orgs/openwallet-foundation/repositories)
+* [introduction slides presented in W3C CCG VC-EDU TF]( https://docs.google.com/presentation/d/1I762954FgeU7I3b4-jPToJ3lCGGyATkdHFny97KLfJ0/edit?pli=1#slide=id.g243d2775bb6_0_86)
+
+### Learner Credential Wallet
+* [DCC - Learner Credential Wallet](https://github.com/digitalcredentials/learner-credential-wallet)
+
 ### Related Links
 
 * [How to create a DID:WEB and issue and verify W3C Verifiiable Credentials](https://medium.com/@skounis/how-to-create-a-did-web-and-issue-and-verify-w3c-verifiable-credentials-bcd5215e378d) by Stavros Kounis
@@ -104,6 +115,8 @@ In this consortium, participants are aiming to build an infrastructure for **dig
    - [관련 동영상 링크](https://www.youtube.com/@brianrichter5039/videos)
 * [Subresource Integrity](https://developer.mozilla.org/en-US/docs/Web/Security/Subresource_Integrity)
 * [Create and Publish Your Own did:web](https://mhrsntrk.com/blog/create-and-publish-your-own-did-web)
+* [SD-JWT: Selective Disclosure for JWTs](https://github.com/oauth-wg/oauth-selective-disclosure-jwt)
+* [sd-jwt: ietf-draft](https://datatracker.ietf.org/doc/draft-ietf-oauth-selective-disclosure-jwt/)
 
   
 ### Related Videos for Verifiable Credentials 
@@ -117,12 +130,5 @@ In this consortium, participants are aiming to build an infrastructure for **dig
 * [TBD slide](https://www.slideshare.net/secret/7mfMOiHIYeGcpn)https://www.slideshare.net/secret/7mfMOiHIYeGcpn)
 * [Microsoft Demo](https://aka.ms/vcdeom)
 * 
-### W#C WICG for Identity Wallets
 
-* [Identity Walleet CG](https://docs.google.com/document/d/1sW74RUVamz8g6-23IHvMOgHMg-ZvIz5lcsajBvZxtes/edit?pli=1)
-
-### Open Wallet Foundation
-* [github](https://github.com/orgs/openwallet-foundation/repositories)
-* [introduction slides presented in W3C CCG VC-EDU TF]( https://docs.google.com/presentation/d/1I762954FgeU7I3b4-jPToJ3lCGGyATkdHFny97KLfJ0/edit?pli=1#slide=id.g243d2775bb6_0_86)
-* 
 
