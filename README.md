@@ -105,10 +105,6 @@ In this consortium, participants are aiming to build an infrastructure for **dig
 
 * [How to create a DID:WEB and issue and verify W3C Verifiiable Credentials](https://medium.com/@skounis/how-to-create-a-did-web-and-issue-and-verify-w3c-verifiable-credentials-bcd5215e378d) by Stavros Kounis
 * [Microsoft Entra Verified ID document](https://learn.microsoft.com/en-us/azure/active-directory/verifiable-credentials/)
-* [OpenID for Verifiable Credentials(Document)]
-(https://openid.net/wordpress-content/uploads/2022/06/OIDF-Whitepaper_OpenID-for-Verifiable-Credentials-V2_2022-06-23.pdf)
-* [Open ID Foundation Workshop at Microsoft - Monday, April 17, 2023](https://openid.net/workshops/workshop-at-microsoft-april-17-2023/)
-   - We can view workshop recordings and presentations in this link.
 * [ECDSA Selective Disclosure Data Integrity Cryptosuite](https://github.com/digitalbazaar/ecdsa-sd-2023-cryptosuite)
 * [CBOR JavaScript API](https://github.com/cyberphone/cbor-js-api)
 * [deccentralized identity hackathon discord link](https://discord.com/channels/1052689356999106580/1103031000541446226)
@@ -118,7 +114,14 @@ In this consortium, participants are aiming to build an infrastructure for **dig
 * [SD-JWT: Selective Disclosure for JWTs](https://github.com/oauth-wg/oauth-selective-disclosure-jwt)
 * [sd-jwt: ietf-draft](https://datatracker.ietf.org/doc/draft-ietf-oauth-selective-disclosure-jwt/)
 
-  
+### Activities of OpenID Foundation
+
+* [Open ID Foundation Workshop at Microsoft - Monday, April 17, 2023](https://openid.net/workshops/workshop-at-microsoft-april-17-2023/)
+   - We can view workshop recordings and presentations in this link.
+* [OpenID for Verifiable Credentials](https://openid.net/openid4vc/)
+* [OpenID for Verifiable Credentials(Document)]
+(https://openid.net/wordpress-content/uploads/2022/06/OIDF-Whitepaper_OpenID-for-Verifiable-Credentials-V2_2022-06-23.pdf)
+
 ### Related Videos for Verifiable Credentials 
 
 * [Verifiable Credentials 101 for SSI](https://www.youtube.com/watch?v=6O_iJnhIh5o&t=9s)
