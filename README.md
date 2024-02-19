@@ -130,8 +130,13 @@ In this consortium, participants are aiming to build an infrastructure for **dig
 
 ### W3C VC and DID Demonstration
 
-* [TBD slide](https://www.slideshare.net/secret/7mfMOiHIYeGcpn)https://www.slideshare.net/secret/7mfMOiHIYeGcpn)
+* [TBD slide](https://www.slideshare.net/secret/7mfMOiHIYeGcpn)
 * [Microsoft Demo](https://aka.ms/vcdeom)
 * 
 
+
+### HTTP MEssage Signature
+
+* [IETF RFC 9421: HTTP Message Signatures](https://datatracker.ietf.org/doc/html/rfc9421)
+* [Implementation of RFC 9421](https://github.com/junkurihara/httpsig-rs)
 
