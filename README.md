@@ -128,14 +128,19 @@ In this consortium, participants are aiming to build an infrastructure for **dig
 * [Understanding and Using Verifiable Credentials](https://www.youtube.com/watch?v=BxLSSH_EHjo)
 * [How to Integrate Verifiable Credentials into Any Application](https://www.youtube.com/watch?v=PkgHQCD1Ekk)
 
+### Solutions
+
+* [truvity (Business Identity infrastructure made simple
+for XX)](https://www.truvity.com/)
+
+
 ### W3C VC and DID Demonstration
 
 * [TBD slide](https://www.slideshare.net/secret/7mfMOiHIYeGcpn)
 * [Microsoft Demo](https://aka.ms/vcdeom)
 * 
 
-
-### HTTP MEssage Signature
+### HTTP Message Signature
 
 * [IETF RFC 9421: HTTP Message Signatures](https://datatracker.ietf.org/doc/html/rfc9421)
 * [Implementation of RFC 9421](https://github.com/junkurihara/httpsig-rs)
