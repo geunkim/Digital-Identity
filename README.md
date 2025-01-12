@@ -10,6 +10,8 @@ I will gather information and links related to Digital Identity, which may be th
 This conference is the first conference related to the wallet experience. You can catch the recap videos. 
 This is driven by a purpose to improve the wallet experience to obtain Web3's first billion users.
 
+### [WalletCon 2024 Conference Video](https://www.youtube.com/watch?v=0E_NwK9L8kw)
+
 ## Consortium
 
 ### [DCC(Digital Credentials Consortium)](https://digitalcredentials.mit.edu)
