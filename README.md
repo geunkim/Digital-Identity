@@ -18,7 +18,6 @@ This is driven by a purpose to improve the wallet experience to obtain Web3's fi
 
 In this consortium, participants are aiming to build an infrastructure for **digital academic credentials** that can support **the education system of the future**. 
 
-
 ## Projects
 
 ### [spruceid.com](https://spruceid.com)
@@ -129,6 +128,9 @@ In this consortium, participants are aiming to build an infrastructure for **dig
 * [Verifiable Credentials 101 for SSI](https://www.youtube.com/watch?v=6O_iJnhIh5o&t=9s)
 * [Understanding and Using Verifiable Credentials](https://www.youtube.com/watch?v=BxLSSH_EHjo)
 * [How to Integrate Verifiable Credentials into Any Application](https://www.youtube.com/watch?v=PkgHQCD1Ekk)
+
+
+
 
 ### Solutions
 
